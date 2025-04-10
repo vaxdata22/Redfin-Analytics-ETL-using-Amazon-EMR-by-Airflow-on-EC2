@@ -372,11 +372,11 @@ See the finished DAG file [here](codes/redfin_analytics_etl_emr_spark_job_dag.py
 #### This orchestration made use of a necessary AWS Airflow connection which was added via the Airflow GUI:
 * Connection ID: `aws_new_conn`
 
-* Connection Type: Amazon Web Services
+* Connection Type: `Amazon Web Services`
 
-* AWS Access Key: <<THE IAM USER ACCESS KEY>>
+* AWS Access Key: <<`THE IAM USER ACCESS KEY`>>
 
-* AWS Secret Access Key: <<THE IAM USER SECRET ACCESS KEY>>
+* AWS Secret Access Key: <<`THE IAM USER SECRET ACCESS KEY`>>
 
 * Extra:
     ```
@@ -457,9 +457,9 @@ Thus the entire orchestration was a success and took roughly 13 minutes.
 
 * Warehouse: `redfin_analytics_warehouse`
 
-* Username: <MY SNOWFLAKE ACCOUNT USERNAME>
+* Username: <<`MY SNOWFLAKE ACCOUNT USERNAME`>>
 
-* Password: <MY SNOWFLAKE ACCOUNT PASSWORD>
+* Password: <<`MY SNOWFLAKE ACCOUNT PASSWORD`>>
   
 ![img37](screenshots/img37.png)
 <br><br>
