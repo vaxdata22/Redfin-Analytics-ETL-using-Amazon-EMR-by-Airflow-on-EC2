@@ -457,9 +457,9 @@ Thus the entire orchestration was a success and took roughly 13 minutes.
 
 * Warehouse: `redfin_analytics_warehouse`
 
-* Username: <<MY SNOWFLAKE ACCOUNT USERNAME>>
+* Username: <MY SNOWFLAKE ACCOUNT USERNAME>
 
-* Password: <<MY SNOWFLAKE ACCOUNT PASSWORD>>
+* Password: <MY SNOWFLAKE ACCOUNT PASSWORD>
   
 ![img37](screenshots/img37.png)
 <br><br>
